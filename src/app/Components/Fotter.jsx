@@ -8,7 +8,7 @@ const Footer = () => {
 
         {/* Brand Section */}
         <div>
-          <h2 className="text-xl font-bold text-white mb-3">MyShop</h2>
+          <h2 className="text-xl font-bold text-white mb-3">Shop</h2>
           <p className="text-sm">
             Your one-stop shop for the best products at unbeatable prices.
           </p>
@@ -38,7 +38,7 @@ const Footer = () => {
       </div>
 
       <div className="border-t border-gray-700 mt-8 pt-4 text-center text-sm text-gray-400">
-        © {new Date().getFullYear()} MyShop. All rights reserved.
+        © {new Date().getFullYear()} Shop. All rights reserved.
       </div>
     </footer>
   );
